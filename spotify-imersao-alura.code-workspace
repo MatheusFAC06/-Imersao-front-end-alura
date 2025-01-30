@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "spotify-imersao-alura"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "spotify-imersao-alura"
+	}
+}
